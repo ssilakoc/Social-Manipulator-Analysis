@@ -20,3 +20,10 @@ Durum Yönetimi (State): Kullanıcının hangi soruda olduğunu ve o ana kadar t
 CSS Animasyonları: İlerleme çubuğunda (progress bar) transition kullanarak akıcı bir kullanıcı deneyimi sağladım.
 
 Kontrol Yapıları: if/else bloklarıyla testin bitişini ve puan baremlerine göre sonucun değişmesini yönettim
+
+
+💬 Geri Bildirim
+
+Bu projeyi kendimi geliştirmek amacıyla hazırladım. Eğer kod yapısıyla ilgili bir öneriniz varsa paylaşmanızdan mutluluk duyarım. Gelişime ve yeni fikirlere her zaman açığım! 🚀
+
+LinkedIn: www.linkedin.com/in/sıla-koç
